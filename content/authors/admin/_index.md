@@ -44,13 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:kbock@cs.umd.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kkevsterrr
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=63ghsx8AAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,11 +67,12 @@ email: ""
 #- Visitors
 ---
 
-Kevin Bock is a PhD candidate in the computer science department at the University of Maryland,
-advised by [Dave Levin](https://www.cs.umd.edu/~dml/), studying network security
-and censorship evasion. Kevin is an instructor for the University of Maryland Honors
-College Program ACES (Advanced Cybersecurity Experience for Students) for the
-course HACS408T: Introduction to Penetration Testing. 
+Kevin Bock is a PhD candidate in the computer science department at the
+University of Maryland, advised by [Dave Levin](https://www.cs.umd.edu/~dml/),
+studying network security and censorship evasion. Kevin is the instructor for
+HACS408T: Introduction to Penetration Testing for the University of Maryland
+Honors College Program [ACES](https://aces.umd.edu/) (Advanced Cybersecurity Experience
+for Students).
 
 Kevin is the lead developer for [Geneva](https://geneva.cs.umd.edu), a genetic
 algorithm that discovers ways to evade nation-state Internet censorship. He runs the
