@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kevin Bock
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Maryland
+  url: "https://umd.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include network security, 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cybersecurity 
+- Censorship Evasion
+- Network Security
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: University of Maryland 
+    year: (in progress)
+  - course: Masters in Computer Science
+    institution: University of Maryland
+    year: 2018
+  - course: BS in Computer Science
+    institution: University of Maryland
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,9 +45,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -65,11 +62,17 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kevin Bock is a PhD candidate in the computer science department at the University of Maryland,
+advised by [Dave Levin](https://www.cs.umd.edu/~dml/), studying network security
+and censorship evasion. Kevin is an instructor for the University of Maryland Honors
+College Program ACES (Advanced Cybersecurity Experience for Students) for the
+course HACS408T: Introduction to Penetration Testing. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Kevin is the lead developer for [Geneva](https://geneva.cs.umd.edu), a genetic
+algorithm that discovers ways to evade nation-state Internet censorship. He runs the
+censorship team in the [Breakerspace Lab](https://breakerspace.io).
