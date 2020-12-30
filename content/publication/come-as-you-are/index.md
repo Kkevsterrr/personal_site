@@ -9,7 +9,7 @@ summary: "In this paper, we present the first purely server-side censorship evas
 featured: true
 publication: "*Proceedings of the Annual Conference of the ACM SIGCOMM Special Interest Group on Data Communication on the Applications, Technologies, Architectures, and Protocols for Computer Communication*"
 tags: ["Server-side", "Geneva", "Censorship"]
-url_pdf: "https://doi.org/10.1145/3387514.3405889"
+url_pdf: pdf/come-as-you-are.pdf
 url_code: https://github.com/Kkevsterrr/geneva
 url_project: https://geneva.cs.umd.edu
 doi: "10.1145/3387514.3405889"

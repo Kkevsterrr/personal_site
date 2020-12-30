@@ -37,8 +37,13 @@ publication_types:
 abstract: 'As the censorship arms race advances, some nation-states are deploying “censorship-in depth,” composing multiple orthogonal censorship mechanisms. This can make it more difficult to both measure and evade censorship. Earlier this year, Iran deployed their protocol filter that permits only a small set of protocols (DNS, HTTP, and HTTPS) and censors connections using any other protocol. Iran composes their protocol filter with their standard censorship, threatening the success of existing evasion tools and measurement efforts. In this paper, we present the first detailed analysis of Iran’s protocol filter: how it works, its limitations, and how it can be defeated. We reverse engineer the fingerprints used by the protocol filter, enabling tool developers to bypass the filter, and report on multiple packet-manipulation strategies that defeat the filter. Despite acting concurrently with and on the same traffic as Iran’s standard DPI-based censorship, we demonstrate that it is possible to engage with (and defeat) each censorship system in isolation. Our code is publicly available at https://geneva.cs.umd.edu.'
 publication: '*10th USENIX Workshop on Free and Open Communications on the Internet
   (FOCI 20)*'
-url_pdf: https://www.usenix.org/conference/foci20/presentation/bock
-url_video: https://www.youtube.com/watch?v=NM-h3WoAYEc
+url_pdf: pdf/evading-censorship-in-depth.pdf
 url_code: https://github.com/Kkevsterrr/geneva
 url_project: https://geneva.cs.umd.edu
+
+links:
+  - url: https://www.usenix.org/conference/foci20/presentation/bock 
+    name: Conference
+  - url: https://www.youtube.com/watch?v=NM-h3WoAYEc 
+    name: Talk
 ---

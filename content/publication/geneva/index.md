@@ -60,6 +60,8 @@ summary: We present Geneva, a novel genetic algorithm that evolves packet-manipu
   manipulation strategies. 
 publication: '*Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications
   Security*'
-url_pdf: https://doi.org/10.1145/3319535.3363189
+url_pdf: pdf/geneva_ccs19.pdf
+url_code: https://github.com/Kkevsterrr/geneva
+url_project: https://geneva.cs.umd.edu
 doi: 10.1145/3319535.3363189
 ---
