@@ -76,4 +76,5 @@ for Students).
 
 Kevin is the lead developer for [Geneva](https://geneva.cs.umd.edu), a genetic
 algorithm that discovers ways to evade nation-state Internet censorship. He runs the
-censorship team in the [Breakerspace Lab](https://breakerspace.io).
+censorship team in the [Breakerspace Lab](https://breakerspace.io), and is one of the 2021 winners
+of IRTF's international [Applied Network Research Prize](https://irtf.org/anrp/) (ANRP).
