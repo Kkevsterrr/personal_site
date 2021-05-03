@@ -18,7 +18,7 @@ organizations:
   url: "https://umd.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include network security, 
+bio: I am a PhD candidate in the computer science department at the University of Maryland, advised by [Dave Levin](https://www.cs.umd.edu/~dml/). My work focuses on enabling open communication, improving network security, and evading censorship. 
 
 interests:
 - Cybersecurity 
@@ -67,14 +67,19 @@ email: ""
 #- Visitors
 ---
 
-Kevin Bock is a PhD candidate in the computer science department at the
-University of Maryland, advised by [Dave Levin](https://www.cs.umd.edu/~dml/),
-studying network security and censorship evasion. Kevin is the instructor for
-HACS408T: Introduction to Penetration Testing for the University of Maryland
-Honors College Program [ACES](https://aces.umd.edu/) (Advanced Cybersecurity Experience
-for Students).
+I am a PhD candidate in the computer science department at the
+University of Maryland, advised by [Dave Levin](https://www.cs.umd.edu/~dml/).
+My work focuses on enabling open communication, improving network security, and 
+evading censorship. 
 
-Kevin is the lead developer for [Geneva](https://geneva.cs.umd.edu), a genetic
-algorithm that discovers ways to evade nation-state Internet censorship. He runs the
-censorship team in the [Breakerspace Lab](https://breakerspace.io), and is one of the 2021 winners
-of IRTF's international [Applied Network Research Prize](https://irtf.org/anrp/) (ANRP).
+I created [Geneva](https://geneva.cs.umd.edu), a genetic algorithm that
+discovers ways to evade nation-state Internet censorship, and run the censorship
+team in the [Breakerspace Lab](https://breakerspace.io). I am honored to be one of the 2021
+winners of IRTF's international [Applied Network Research
+Prize](https://irtf.org/anrp/) (ANRP).
+
+I am also the creator of and instructor for _HACS408T: Introduction to
+Penetration Testing_ for the University of Maryland Honors College Program
+[ACES](https://aces.umd.edu/) (Advanced Cybersecurity Experience for Students).
+
+
