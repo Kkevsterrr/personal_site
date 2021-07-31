@@ -14,7 +14,7 @@ date: 2021-08-11
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-05-02T22:18:16-04:00
+publishDate: 2021-08-11T22:18:16-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -43,12 +43,12 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: pdf/weaponizing-ddos.pdf
-url_code:
+url_pdf: pdf/usenix-weaponizing-ddos.pdf
+url_code: https://github.com/breakerspace/weaponizing-censors
 url_dataset:
 url_poster:
-url_project: https://geneva.cs.umd.edu/weaponizing
-url_slides:
+url_project: https://geneva.cs.umd.edu/weaponizing/
+url_slides: pdf/usenix-weaponizing-ddos-slides.pdf
 url_source:
 url_video:
 
