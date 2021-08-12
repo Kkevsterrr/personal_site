@@ -50,7 +50,7 @@ url_poster:
 url_project: https://geneva.cs.umd.edu/weaponizing/
 url_slides: pdf/usenix-weaponizing-ddos-slides.pdf
 url_source:
-url_video:
+url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

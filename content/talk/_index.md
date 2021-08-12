@@ -12,3 +12,5 @@ header:
   caption: ""
   image: ""
 ---
+
+This page houses standalone talks; to see presentations associated with a specific conference paper, see my [publications](/publication).
