@@ -74,9 +74,12 @@ evading censorship.
 
 I created [Geneva](https://geneva.cs.umd.edu), a genetic algorithm that
 discovers ways to evade nation-state Internet censorship, and run the censorship
-team in the [Breakerspace Lab](https://breakerspace.io). I am honored to be one of the 2021
-winners of IRTF's international [Applied Network Research
-Prize](https://irtf.org/anrp/) (ANRP) and a recipient of USENIX Security's [Distinguished Paper Award](https://www.usenix.org/conference/usenixsecurity21/presentation/bock).
+team in the [Breakerspace Lab](https://breakerspace.io). I am honored to be one
+of the 2021 winners Facebook and USNEIX's [Internet Defense
+Prize](https://www.usenix.org/blog/facebook-and-usenix-announce-winners-2021-internet-defense-prize),
+IRTF's international [Applied Network Research Prize](https://irtf.org/anrp/)
+(ANRP), and a recipient of USENIX Security's [Distinguished Paper
+Award](https://www.usenix.org/conference/usenixsecurity21/presentation/bock).
 
 I am also the creator of and instructor for _HACS408T: Introduction to
 Penetration Testing_ for the University of Maryland Honors College Program
