@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'unCaptcha: A Low-Resource Defeat of reCaptchatextquoterights Audio Challenge'
+title: "unCaptcha: A Low-Resource Defeat of reCaptcha's Audio Challenge"
 subtitle: ''
 summary: ''
 authors:
