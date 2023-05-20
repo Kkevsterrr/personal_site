@@ -1,1 +1,1 @@
-hugo -b "https://cs.umd.edu/~kbock/"
+hugo -b "https://kevinbock.phd/"

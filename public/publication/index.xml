@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Kevin Bock</title>
+    <link>https://kevinbock.phd/publication/</link>
+      <atom:link href="https://kevinbock.phd/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kevinbock.phd/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://kevinbock.phd/publication/</link>
+    </image>
+    
+    <item>
+      <title>Even Censors Have a Backup: Examining the GFW’s Double HTTPS Censorship System</title>
+      <link>https://kevinbock.phd/publication/foci21-double-sni/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/foci21-double-sni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weaponizing Middleboxes for TCP Reflected Amplification</title>
+      <link>https://kevinbock.phd/publication/weaponizing-ddos/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/weaponizing-ddos/</guid>
+      <description>&lt;p&gt;This work also won a Distinguished Paper Award.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Your Censor is My Censor: Weaponizing Censorship Infrastructure for Availability Attacks</title>
+      <link>https://kevinbock.phd/publication/weaponizing-residual/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/weaponizing-residual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting and Evading Censorship-in-Depth: A Case Study of Iran&#39;s Protocol Whitelister</title>
+      <link>https://kevinbock.phd/publication/protocol_filter/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/protocol_filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Come as You Are: Helping Unmodified Clients Bypass Censorship with Server-Side Evasion</title>
+      <link>https://kevinbock.phd/publication/come-as-you-are/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/come-as-you-are/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geneva: Evolving Censorship Evasion Strategies</title>
+      <link>https://kevinbock.phd/publication/geneva/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/geneva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>King of the Hill: A Novel Cybersecurity Competition for Teaching Penetration Testing</title>
+      <link>https://kevinbock.phd/publication/koth/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/koth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unCaptcha: A Low-Resource Defeat of reCaptcha&#39;s Audio Challenge</title>
+      <link>https://kevinbock.phd/publication/uncaptcha/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/uncaptcha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of Routine Activity Theory to Cyber Intrusion Location and Time</title>
+      <link>https://kevinbock.phd/publication/edcc2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/edcc2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

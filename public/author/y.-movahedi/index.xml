@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Movahedi | Kevin Bock</title>
+    <link>https://kevinbock.phd/author/y.-movahedi/</link>
+      <atom:link href="https://kevinbock.phd/author/y.-movahedi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. Movahedi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kevinbock.phd/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Y. Movahedi</title>
+      <link>https://kevinbock.phd/author/y.-movahedi/</link>
+    </image>
+    
+    <item>
+      <title>Application of Routine Activity Theory to Cyber Intrusion Location and Time</title>
+      <link>https://kevinbock.phd/publication/edcc2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/edcc2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Bock</title>
+    <link>https://kevinbock.phd/author/kevin-bock/</link>
+      <atom:link href="https://kevinbock.phd/author/kevin-bock/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kevin Bock</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kevinbock.phd/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Kevin Bock</title>
+      <link>https://kevinbock.phd/author/kevin-bock/</link>
+    </image>
+    
+    <item>
+      <title>Even Censors Have a Backup: Examining the GFW’s Double HTTPS Censorship System</title>
+      <link>https://kevinbock.phd/publication/foci21-double-sni/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/foci21-double-sni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weaponizing Middleboxes for TCP Reflected Amplification</title>
+      <link>https://kevinbock.phd/talk/usenix21/</link>
+      <pubDate>Wed, 11 Aug 2021 13:30:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/talk/usenix21/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    See our USENIX Security 2021 paper &amp;ldquo;&lt;a href=&#34;https://kevinbock.phd/publication/weaponizing-ddos&#34;&gt;Weaponizing Middleboxes for TCP Reflected Amplification&lt;/a&gt;&amp;rdquo; and our WOOT 2021 paper &amp;ldquo;&lt;a href=&#34;https://kevinbock.phd/publication/weaponizing-residual&#34;&gt;Your Censor is My Censor: Weaponizing Censorship Infrastructure for Availability Attacks&lt;/a&gt;&amp;rdquo; for more information.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weaponizing Middleboxes for TCP Reflected Amplification</title>
+      <link>https://kevinbock.phd/publication/weaponizing-ddos/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/weaponizing-ddos/</guid>
+      <description>&lt;p&gt;This work also won a Distinguished Paper Award.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Your Censor is My Censor: Weaponizing Censorship Infrastructure for Availability Attacks</title>
+      <link>https://kevinbock.phd/publication/weaponizing-residual/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/weaponizing-residual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting and Evading Censorship-in-Depth: A Case Study of Iran&#39;s Protocol Whitelister</title>
+      <link>https://kevinbock.phd/publication/protocol_filter/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/protocol_filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Come as You Are: Helping Unmodified Clients Bypass Censorship with Server-Side Evasion</title>
+      <link>https://kevinbock.phd/publication/come-as-you-are/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/come-as-you-are/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Nation-State Censorship with Genetic Algorithms</title>
+      <link>https://kevinbock.phd/talk/aims19/</link>
+      <pubDate>Tue, 16 Apr 2019 13:30:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/talk/aims19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geneva: Evolving Censorship Evasion Strategies</title>
+      <link>https://kevinbock.phd/publication/geneva/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/geneva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App Revocation Checking: Why is this still so hard?</title>
+      <link>https://kevinbock.phd/talk/hotsec18/</link>
+      <pubDate>Tue, 14 Aug 2018 10:30:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/talk/hotsec18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>King of the Hill: A Novel Cybersecurity Competition for Teaching Penetration Testing</title>
+      <link>https://kevinbock.phd/publication/koth/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/koth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unCaptcha: A Low-Resource Defeat of reCaptcha&#39;s Audio Challenge</title>
+      <link>https://kevinbock.phd/publication/uncaptcha/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://kevinbock.phd/publication/uncaptcha/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

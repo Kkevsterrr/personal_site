@@ -49,6 +49,8 @@ org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
+ 
+custom_css = ["css/main.css"]
 
 ############################
 ## Site Features
