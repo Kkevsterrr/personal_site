@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pranav Bharadwaj | Kevin Bock</title>
-    <link>https://kkevsterrr.github.io/personal_site/author/pranav-bharadwaj/</link>
-      <atom:link href="https://kkevsterrr.github.io/personal_site/author/pranav-bharadwaj/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kevinbock.phd/author/pranav-bharadwaj/</link>
+      <atom:link href="https://kevinbock.phd/author/pranav-bharadwaj/index.xml" rel="self" type="application/rss+xml" />
     <description>Pranav Bharadwaj</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kkevsterrr.github.io/personal_site/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kevinbock.phd/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Pranav Bharadwaj</title>
-      <link>https://kkevsterrr.github.io/personal_site/author/pranav-bharadwaj/</link>
+      <link>https://kevinbock.phd/author/pranav-bharadwaj/</link>
     </image>
     
     <item>
       <title>Your Censor is My Censor: Weaponizing Censorship Infrastructure for Availability Attacks</title>
-      <link>https://kkevsterrr.github.io/personal_site/publication/weaponizing-residual/</link>
+      <link>https://kevinbock.phd/publication/weaponizing-residual/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://kkevsterrr.github.io/personal_site/publication/weaponizing-residual/</guid>
+      <guid>https://kevinbock.phd/publication/weaponizing-residual/</guid>
       <description></description>
     </item>
     

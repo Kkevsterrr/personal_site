@@ -1,4 +1,3 @@
-#hugo -b "https://kevinbock.phd/"
 rm -rf docs/
-hugo -b "https://kkevsterrr.github.io/personal_site/"
+hugo -b "https://kevinbock.phd/"
 mv public docs
