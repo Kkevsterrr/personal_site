@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Server-side | Kevin Bock</title>
-    <link>https://kevinbock.phd/tag/server-side/</link>
-      <atom:link href="https://kevinbock.phd/tag/server-side/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kkevsterrr.github.io/personal_site/tag/server-side/</link>
+      <atom:link href="https://kkevsterrr.github.io/personal_site/tag/server-side/index.xml" rel="self" type="application/rss+xml" />
     <description>Server-side</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kevinbock.phd/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kkevsterrr.github.io/personal_site/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Server-side</title>
-      <link>https://kevinbock.phd/tag/server-side/</link>
+      <link>https://kkevsterrr.github.io/personal_site/tag/server-side/</link>
     </image>
     
     <item>
       <title>Come as You Are: Helping Unmodified Clients Bypass Censorship with Server-Side Evasion</title>
-      <link>https://kevinbock.phd/publication/come-as-you-are/</link>
+      <link>https://kkevsterrr.github.io/personal_site/publication/come-as-you-are/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://kevinbock.phd/publication/come-as-you-are/</guid>
+      <guid>https://kkevsterrr.github.io/personal_site/publication/come-as-you-are/</guid>
       <description></description>
     </item>
     

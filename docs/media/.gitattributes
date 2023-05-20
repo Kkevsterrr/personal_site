@@ -1,3 +1,0 @@
-foci20_video_bock.mp4 filter=lfs diff=lfs merge=lfs -text
-sigcomm_long_video_kbock.mp4 filter=lfs diff=lfs merge=lfs -text
-sigcomm_short_video_kbock.mp4 filter=lfs diff=lfs merge=lfs -text
