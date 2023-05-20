@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Cukier | Kevin Bock</title>
-    <link>https://kevinbock.phd/personal_site/author/m.-cukier/</link>
-      <atom:link href="https://kevinbock.phd/personal_site/author/m.-cukier/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/m.-cukier/</link>
+      <atom:link href="/author/m.-cukier/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Cukier</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kevinbock.phd/personal_site/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>M. Cukier</title>
-      <link>https://kevinbock.phd/personal_site/author/m.-cukier/</link>
+      <link>/author/m.-cukier/</link>
     </image>
     
     <item>
       <title>Application of Routine Activity Theory to Cyber Intrusion Location and Time</title>
-      <link>https://kevinbock.phd/personal_site/publication/edcc2017/</link>
+      <link>/publication/edcc2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://kevinbock.phd/personal_site/publication/edcc2017/</guid>
+      <guid>/publication/edcc2017/</guid>
       <description></description>
     </item>
     

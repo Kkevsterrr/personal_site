@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daven Patel | Kevin Bock</title>
-    <link>https://kevinbock.phd/personal_site/author/daven-patel/</link>
-      <atom:link href="https://kevinbock.phd/personal_site/author/daven-patel/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/daven-patel/</link>
+      <atom:link href="/author/daven-patel/index.xml" rel="self" type="application/rss+xml" />
     <description>Daven Patel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kevinbock.phd/personal_site/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Daven Patel</title>
-      <link>https://kevinbock.phd/personal_site/author/daven-patel/</link>
+      <link>/author/daven-patel/</link>
     </image>
     
     <item>
       <title>unCaptcha: A Low-Resource Defeat of reCaptcha&#39;s Audio Challenge</title>
-      <link>https://kevinbock.phd/personal_site/publication/uncaptcha/</link>
+      <link>/publication/uncaptcha/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://kevinbock.phd/personal_site/publication/uncaptcha/</guid>
+      <guid>/publication/uncaptcha/</guid>
       <description></description>
     </item>
     

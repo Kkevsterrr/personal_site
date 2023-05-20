@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiao Qiang | Kevin Bock</title>
-    <link>https://kevinbock.phd/personal_site/author/xiao-qiang/</link>
-      <atom:link href="https://kevinbock.phd/personal_site/author/xiao-qiang/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/xiao-qiang/</link>
+      <atom:link href="/author/xiao-qiang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiao Qiang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kevinbock.phd/personal_site/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xiao Qiang</title>
-      <link>https://kevinbock.phd/personal_site/author/xiao-qiang/</link>
+      <link>/author/xiao-qiang/</link>
     </image>
     
     <item>
       <title>Geneva: Evolving Censorship Evasion Strategies</title>
-      <link>https://kevinbock.phd/personal_site/publication/geneva/</link>
+      <link>/publication/geneva/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kevinbock.phd/personal_site/publication/geneva/</guid>
+      <guid>/publication/geneva/</guid>
       <description></description>
     </item>
     
