@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kevin Bock
+title: Kevin Bock, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Senior Software Developer, CNO Developer
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://umd.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in the computer science department at the University of Maryland, advised by [Dave Levin](https://www.cs.umd.edu/~dml/). My work focuses on enabling open communication, improving network security, and evading censorship. 
+bio: I study censorship and network security, and my work seeks to enable open communication and support missions in cyberspace. I got my Ph.D. in Computer Science at the University of Maryland, advised by [Dave Levin](https://www.cs.umd.edu/~dml/). 
 
 interests:
 - Cybersecurity 
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Maryland 
-    year: (in progress)
+    year: 2022
   - course: Masters in Computer Science
     institution: University of Maryland
     year: 2018
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kbock@cs.umd.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:kbock@umd.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/kkevsterrr
@@ -66,23 +66,23 @@ email: ""
 # - Researchers
 #- Visitors
 ---
-
-I am a PhD candidate in the computer science department at the
-University of Maryland, advised by [Dave Levin](https://www.cs.umd.edu/~dml/).
-My work focuses on enabling open communication, improving network security, and 
-evading censorship. 
+I study censorship and network security, and my work seeks to enable open
+communication and support missions in cyberspace. I earned my Ph.D. in Computer
+Science at the University of Maryland, advised by [Dave
+Levin](https://www.cs.umd.edu/~dml/). 
 
 I created [Geneva](https://geneva.cs.umd.edu), a genetic algorithm that
-discovers ways to evade nation-state Internet censorship, and run the censorship
-team in the [Breakerspace Lab](https://breakerspace.io). I am honored to be one
-of the 2021 winners Facebook and USNEIX's [Internet Defense
+discovers ways to evade nation-state Internet censorship, and advise the censorship
+team in the [Breakerspace Lab](https://breakerspace.io). I am honored to be 
+a winner of Facebook and USNEIX's [Internet Defense
 Prize](https://www.usenix.org/blog/facebook-and-usenix-announce-winners-2021-internet-defense-prize),
 IRTF's international [Applied Network Research Prize](https://irtf.org/anrp/)
 (ANRP), and a recipient of USENIX Security's [Distinguished Paper
 Award](https://www.usenix.org/conference/usenixsecurity21/presentation/bock).
 
-I am also the creator of and instructor for _HACS408T: Introduction to
-Penetration Testing_ for the University of Maryland Honors College Program
-[ACES](https://aces.umd.edu/) (Advanced Cybersecurity Experience for Students).
-
-
+Outside of my censorship work, I am currently working with Amazon Web Services
+and with the University of Maryland as an adjunct faculty member. I
+am the creator of _HACS408T: Introduction to Penetration Testing_
+for the University of Maryland Honors College Program
+[ACES](https://aces.umd.edu/) (Advanced Cybersecurity Experience for Students), which 
+I teach every Spring semester.
