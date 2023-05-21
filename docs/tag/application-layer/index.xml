@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Application-Layer | Kevin Bock</title>
+    <link>/tag/application-layer/</link>
+      <atom:link href="/tag/application-layer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Application-Layer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Application-Layer</title>
+      <link>/tag/application-layer/</link>
+    </image>
+    
+    <item>
+      <title>GET /out: Automated Discovery of Application-Layer Censorship Evasion Strategies</title>
+      <link>/publication/2022-get-out/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-get-out/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

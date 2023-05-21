@@ -2,41 +2,128 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tag/censorship/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/amir-houmansadr/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/china/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/danesh-sivakumar/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/dave-levin/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/foci21-double-sni/</loc>
+    <loc>/author/eric-wustrow/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/fully-encrypted-traffic/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/gfw-report/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2023-fully-encrypted-traffic/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/jack-burg/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/jackson-sippe/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/kevin-bock/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/mingshi-wu/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/peter-anderson/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/xiaokang-wang/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/measurement/</loc>
+    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2023-turkmenistan/</loc>
+    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/nguyen-phong-hoang/</loc>
+    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/nick-feamster/</loc>
+    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/sadia-nourin/</loc>
+    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/turkmenistan/</loc>
+    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/van-tran/</loc>
+    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/xi-jiang/</loc>
+    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2023-routing-loops/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/abdulrahman-alaraj/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/networking/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/routing-loops/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/geneva/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/application-layer/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/frederick-sell/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2022-get-out/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/michael-harrity/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2021-censors-have-backup/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/gabriel-naval/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/kevin-bock/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/kyle-reese/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/abdulrahman-alaraj/</loc>
-    <lastmod>2021-08-11T13:30:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/eric-wustrow/</loc>
-    <lastmod>2021-08-11T13:30:00+00:00</lastmod>
   </url><url>
     <loc>/author/kyle-hurley/</loc>
     <lastmod>2021-08-11T13:30:00+00:00</lastmod>
@@ -50,7 +137,7 @@
     <loc>/author/yair-fax/</loc>
     <lastmod>2021-08-11T13:30:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/weaponizing-ddos/</loc>
+    <loc>/publication/2021-weaponizing-ddos/</loc>
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/rightscon21/</loc>
@@ -62,10 +149,10 @@
     <loc>/author/pranav-bharadwaj/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/weaponizing-residual/</loc>
+    <loc>/publication/2021-weaponizing-residual/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/protocol_filter/</loc>
+    <loc>/publication/2020-protocol-filter/</loc>
     <lastmod>2020-12-26T18:48:02-05:00</lastmod>
   </url><url>
     <loc>/talk/imv20/</loc>
@@ -74,17 +161,14 @@
     <loc>/talk/bluehatil20/</loc>
     <lastmod>2020-02-05T13:30:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/censorship/</loc>
-    <lastmod>2020-12-26T18:44:41-05:00</lastmod>
+    <loc>/publication/2020-come-as-you-are/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/come-as-you-are/</loc>
+    <loc>/publication/2023-crowdsourcing-evasion/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/daniel-liscinsky/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/geneva/</loc>
-    <lastmod>2020-12-26T18:44:41-05:00</lastmod>
   </url><url>
     <loc>/author/george-hughey/</loc>
     <lastmod>2020-12-27T01:16:15-05:00</lastmod>
@@ -98,9 +182,6 @@
     <loc>/tag/server-side/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2020-12-27T01:02:22-05:00</lastmod>
-  </url><url>
     <loc>/author/tania-arya/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -110,7 +191,7 @@
     <loc>/tag/genetic-algorithms/</loc>
     <lastmod>2020-12-26T18:44:41-05:00</lastmod>
   </url><url>
-    <loc>/publication/geneva/</loc>
+    <loc>/publication/2019-geneva/</loc>
     <lastmod>2020-12-26T18:44:41-05:00</lastmod>
   </url><url>
     <loc>/author/xiao-qiang/</loc>
@@ -119,16 +200,16 @@
     <loc>/talk/hotsec18/</loc>
     <lastmod>2018-08-14T10:30:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/koth/</loc>
+    <loc>/publication/2018-koth/</loc>
     <lastmod>2020-12-27T01:16:15-05:00</lastmod>
   </url><url>
     <loc>/author/daven-patel/</loc>
     <lastmod>2020-12-27T01:05:04-05:00</lastmod>
   </url><url>
-    <loc>/publication/uncaptcha/</loc>
+    <loc>/publication/2017-uncaptcha/</loc>
     <lastmod>2020-12-27T01:05:04-05:00</lastmod>
   </url><url>
-    <loc>/publication/edcc2017/</loc>
+    <loc>/publication/2017-routine-activity-theory/</loc>
     <lastmod>2020-12-27T01:02:22-05:00</lastmod>
   </url><url>
     <loc>/tag/criminology/</loc>

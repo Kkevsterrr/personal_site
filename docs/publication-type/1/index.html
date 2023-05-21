@@ -256,7 +256,7 @@
   <meta property="og:description" content="Senior Software Developer, CNO Developer"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-08-27T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2023-05-22T00:00:00&#43;00:00">
   
 
   
@@ -502,7 +502,55 @@
     
     
     <div>
-      <h2><a href="/publication/foci21-double-sni/" >Even Censors Have a Backup: Examining the GFW’s Double HTTPS Censorship System</a></h2>
+      <h2><a href="/publication/2023-fully-encrypted-traffic/" >How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic</a></h2>
+      <div class="article-style">
+        
+          In this paper, we measure and characterize the GFW’s new system for censoring fully encrypted traffic. We find that, instead of directly defining what fully encrypted traffic is, the censor applies crude but efficient heuristics to exempt traffic that is unlikely to be fully encrypted traffic; it then blocks the remaining non-exempted traffic. Our understanding of the GFW’s new censorship mechanism helps us derive several practical circumvention strategies. We responsibly disclosed our findings and suggestions to the developers of different anti-censorship tools, helping millions of users successfully evade this new form of blocking.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/2023-turkmenistan/" >Measuring and Evading Turkmenistan’s Internet Censorship: A Case Study in Large-Scale Measurements of a Low-Penetration Country</a></h2>
+      <div class="article-style">
+        
+          Since 2006, Turkmenistan has been listed as one of the few Internet enemies by Reporters without Borders due to its extensively censored Internet and strictly regulated information control policies, but it is difficult to study due to its small population and low internet penetration rate. In this paper, we present the largest measurement study to date of Turkmenistan’s Web censorship. We apply our tool TMC to 15.5M domains, our results reveal that Turkmenistan censors more than 122K domains, using different blocklists for each protocol. We also reverse-engineer these censored domains, identifying 6K over-blocking rules causing incidental filtering of more than 5.4M domains.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/2023-routing-loops/" >A Global Measurement of Routing Loops on the Internet</a></h2>
+      <div class="article-style">
+        
+          Persistent routing loops on the Internet are a common misconfiguration that can lead to packet loss, reliability issues, and can even exacerbate denial of service attacks. In this paper, we perform high-TTL traceroutes to the entire IPv4 Internet from a vantage point in order to enumerate routing loops and validate our results from a different vantage point. We find over 320k /24 subnets with at least one routing loop present.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/2022-get-out/" >GET /out: Automated Discovery of Application-Layer Censorship Evasion Strategies</a></h2>
+      <div class="article-style">
+        
+          In this paper, we present the first techniques to automate the discovery of new censorship evasion techniques purely in the application layer.  We present a general solution and apply it specifically to HTTP and DNS censorship in China, India, and Kazakhstan. Our automated techniques discovered a total of 77 unique evasion strategies for HTTP and 9 for DNS, all of which require only application-layer modifications, making them easier to incorporate into apps and deploy.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/2021-censors-have-backup/" >Even Censors Have a Backup: Examining the GFW’s Double HTTPS Censorship System</a></h2>
       <div class="article-style">
         
           In this paper, we present evidence that suggests the GFW has deployed a second HTTPS censorship middlebox that runs in parallel to the first. We present a detailed analysis of this secondary censorship middlebox—how it operates, the content it blocks, and how it interacts with the primary middlebox. We also present several packet-based evasion strategies for the secondary middlebox and demonstrate that the primary censorship middlebox can be defeated independently from the secondary.
@@ -514,7 +562,7 @@
     
     
     <div>
-      <h2><a href="/publication/weaponizing-ddos/" >Weaponizing Middleboxes for TCP Reflected Amplification</a></h2>
+      <h2><a href="/publication/2021-weaponizing-ddos/" >Weaponizing Middleboxes for TCP Reflected Amplification</a></h2>
       <div class="article-style">
         
           In this paper, we present the first non-trivial TCP-based DDoS amplification attack by weaponizing censoring middleboxes. We develop a novel mechanism to discover these amplification attacks and perform Internet-wide measurements to measure the threat censoring middleboxes pose. We find hundreds of thousands of IP addresses that offer amplification factors greater than 100×. We also report on network phenomena that causes some of the TCP-based attacks to be so effective as to technically have infinite amplification factor (after the attacker sends a constant number of bytes, the reflector generates traffic indefinitely).
@@ -526,7 +574,7 @@
     
     
     <div>
-      <h2><a href="/publication/weaponizing-residual/" >Your Censor is My Censor: Weaponizing Censorship Infrastructure for Availability Attacks</a></h2>
+      <h2><a href="/publication/2021-weaponizing-residual/" >Your Censor is My Censor: Weaponizing Censorship Infrastructure for Availability Attacks</a></h2>
       <div class="article-style">
         
           Censors pose an even greater threat to the Internet than previously understood. We demonstrate an off-path attack that exploits residual censorship, a feature by which a censor continues blocking traffic between two end-hosts for some time after a censorship event. Our attack sends spoofed packets with censored content, keeping two victim end-hosts separated by a censor from being able to communicate with one another. This attack allows anyone to weaponize censorship infrastructure to perform their own blocking.
@@ -538,7 +586,7 @@
     
     
     <div>
-      <h2><a href="/publication/protocol_filter/" >Detecting and Evading Censorship-in-Depth: A Case Study of Iran&#39;s Protocol Whitelister</a></h2>
+      <h2><a href="/publication/2020-protocol-filter/" >Detecting and Evading Censorship-in-Depth: A Case Study of Iran&#39;s Protocol Whitelister</a></h2>
       <div class="article-style">
         
           Earlier this year, Iran deployed their protocol filter that permits only a small set of protocols (DNS, HTTP, and HTTPS) and censors connections using any other protocol. In this paper, we present the first detailed analysis of Iran’s protocol filter: how it works, its limitations, and how it can be defeated.
@@ -550,7 +598,7 @@
     
     
     <div>
-      <h2><a href="/publication/come-as-you-are/" >Come as You Are: Helping Unmodified Clients Bypass Censorship with Server-Side Evasion</a></h2>
+      <h2><a href="/publication/2020-come-as-you-are/" >Come as You Are: Helping Unmodified Clients Bypass Censorship with Server-Side Evasion</a></h2>
       <div class="article-style">
         
           In this paper, we present the first purely server-side censorship evasion strategies---11 in total---enabling servers to subvert censorship on behalf of clients. We extend Geneva to automate the discovery and implementation of server-side strategies, and we apply it to four countries (China, India, Iran, and Kazakhstan) and five protocols (DNS-over-TCP, FTP, HTTP, HTTPS, and SMTP).
@@ -562,52 +610,25 @@
     
     
     <div>
-      <h2><a href="/publication/geneva/" >Geneva: Evolving Censorship Evasion Strategies</a></h2>
+      <h2><a href="/publication/2023-crowdsourcing-evasion/" >Come as You Are: Helping Unmodified Clients Bypass Censorship with Server-Side Evasion</a></h2>
       <div class="article-style">
         
-          We present Geneva, a novel genetic algorithm that evolves packet-manipulation-based censorship evasion strategies against nation-state level censors. With experiments performed both in-lab and against several real censors (in China, India, and Kazakhstan), we demonstrate that Geneva is able to quickly and independently re-derive most strategies from prior work, and derive novel subspecies and altogether new species of packet manipulation strategies.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/koth/" >King of the Hill: A Novel Cybersecurity Competition for Teaching Penetration Testing</a></h2>
-      <div class="article-style">
-        
-          In this paper, we present the design, implementation, and initial run of King of the Hill (KotH), an active learning cybersecurity competition designed to give students experience performing and defending against penetration testing. KotH competitions involve a sophisticated network topology that students must pivot through in order to reach high-value targets. When teams take control of a machine, they also take on the responsibility of running its critical services and defending it against other teams.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/uncaptcha/" >unCaptcha: A Low-Resource Defeat of reCaptcha&#39;s Audio Challenge</a></h2>
-      <div class="article-style">
-        
-          This paper presents unCaptcha, an automated system that can solve reCaptcha’s most difficult auditory challenges with high success rate. We evaluate unCaptcha using over 450 reCaptcha challenges from live websites, and show that it can solve them with 85.15% accuracy in 5.42 seconds, on average. unCaptcha combines free, public, online speech-to-text engines with a novel phonetic mapping technique, demonstrating that it requires minimal resources to mount a large-scale successful attack on the reCaptcha system.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/edcc2017/" >Application of Routine Activity Theory to Cyber Intrusion Location and Time</a></h2>
-      <div class="article-style">
-        
-          Routine Activity Theory (RAT) is used by criminologists to explain the situational factors that influence crime in the physical world. RAT states that crime is most likely when a motivated offender, a vulnerable victim, and a lack of capable …
+          In this paper, we present the first purely server-side censorship evasion strategies---11 in total---enabling servers to subvert censorship on behalf of clients. We extend Geneva to automate the discovery and implementation of server-side strategies, and we apply it to four countries (China, India, Iran, and Kazakhstan) and five protocols (DNS-over-TCP, FTP, HTTP, HTTPS, and SMTP).
         
       </div>
     </div>
   
 
   
+<nav>
+  <ul class="pagination justify-content-center">
+    
+    
+    <li class="page-item"><a class="page-link" href="/publication-type/1/page/2/">&raquo;</a></li>
+    
+  </ul>
+</nav>
+
 
 </div>
 

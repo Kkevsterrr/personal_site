@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Routing-loops | Kevin Bock</title>
+    <link>/tag/routing-loops/</link>
+      <atom:link href="/tag/routing-loops/index.xml" rel="self" type="application/rss+xml" />
+    <description>Routing-loops</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Routing-loops</title>
+      <link>/tag/routing-loops/</link>
+    </image>
+    
+    <item>
+      <title>A Global Measurement of Routing Loops on the Internet</title>
+      <link>/publication/2023-routing-loops/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-routing-loops/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

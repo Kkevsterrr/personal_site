@@ -5,12 +5,28 @@
     <link>/author/eric-wustrow/</link>
       <atom:link href="/author/eric-wustrow/index.xml" rel="self" type="application/rss+xml" />
     <description>Eric Wustrow</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Aug 2021 13:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Eric Wustrow</title>
       <link>/author/eric-wustrow/</link>
     </image>
+    
+    <item>
+      <title>How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic</title>
+      <link>/publication/2023-fully-encrypted-traffic/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-fully-encrypted-traffic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Global Measurement of Routing Loops on the Internet</title>
+      <link>/publication/2023-routing-loops/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-routing-loops/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Weaponizing Middleboxes for TCP Reflected Amplification</title>
@@ -27,9 +43,9 @@
     
     <item>
       <title>Weaponizing Middleboxes for TCP Reflected Amplification</title>
-      <link>/publication/weaponizing-ddos/</link>
+      <link>/publication/2021-weaponizing-ddos/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/weaponizing-ddos/</guid>
+      <guid>/publication/2021-weaponizing-ddos/</guid>
       <description>&lt;p&gt;This work also won a Distinguished Paper Award.&lt;/p&gt;
 </description>
     </item>

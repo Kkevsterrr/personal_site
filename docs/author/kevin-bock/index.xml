@@ -5,7 +5,7 @@
     <link>/author/kevin-bock/</link>
       <atom:link href="/author/kevin-bock/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin Bock</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Kevin Bock</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic</title>
+      <link>/publication/2023-fully-encrypted-traffic/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-fully-encrypted-traffic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and Evading Turkmenistan’s Internet Censorship: A Case Study in Large-Scale Measurements of a Low-Penetration Country</title>
+      <link>/publication/2023-turkmenistan/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-turkmenistan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Global Measurement of Routing Loops on the Internet</title>
+      <link>/publication/2023-routing-loops/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-routing-loops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GET /out: Automated Discovery of Application-Layer Censorship Evasion Strategies</title>
+      <link>/publication/2022-get-out/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-get-out/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Even Censors Have a Backup: Examining the GFW’s Double HTTPS Censorship System</title>
-      <link>/publication/foci21-double-sni/</link>
+      <link>/publication/2021-censors-have-backup/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/foci21-double-sni/</guid>
+      <guid>/publication/2021-censors-have-backup/</guid>
       <description></description>
     </item>
     
@@ -35,34 +67,42 @@
     
     <item>
       <title>Weaponizing Middleboxes for TCP Reflected Amplification</title>
-      <link>/publication/weaponizing-ddos/</link>
+      <link>/publication/2021-weaponizing-ddos/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/weaponizing-ddos/</guid>
+      <guid>/publication/2021-weaponizing-ddos/</guid>
       <description>&lt;p&gt;This work also won a Distinguished Paper Award.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Your Censor is My Censor: Weaponizing Censorship Infrastructure for Availability Attacks</title>
-      <link>/publication/weaponizing-residual/</link>
+      <link>/publication/2021-weaponizing-residual/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/weaponizing-residual/</guid>
+      <guid>/publication/2021-weaponizing-residual/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting and Evading Censorship-in-Depth: A Case Study of Iran&#39;s Protocol Whitelister</title>
-      <link>/publication/protocol_filter/</link>
+      <link>/publication/2020-protocol-filter/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/protocol_filter/</guid>
+      <guid>/publication/2020-protocol-filter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Come as You Are: Helping Unmodified Clients Bypass Censorship with Server-Side Evasion</title>
-      <link>/publication/come-as-you-are/</link>
+      <link>/publication/2020-come-as-you-are/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/come-as-you-are/</guid>
+      <guid>/publication/2020-come-as-you-are/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Come as You Are: Helping Unmodified Clients Bypass Censorship with Server-Side Evasion</title>
+      <link>/publication/2023-crowdsourcing-evasion/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-crowdsourcing-evasion/</guid>
       <description></description>
     </item>
     
@@ -76,9 +116,9 @@
     
     <item>
       <title>Geneva: Evolving Censorship Evasion Strategies</title>
-      <link>/publication/geneva/</link>
+      <link>/publication/2019-geneva/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/geneva/</guid>
+      <guid>/publication/2019-geneva/</guid>
       <description></description>
     </item>
     
@@ -92,17 +132,17 @@
     
     <item>
       <title>King of the Hill: A Novel Cybersecurity Competition for Teaching Penetration Testing</title>
-      <link>/publication/koth/</link>
+      <link>/publication/2018-koth/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/koth/</guid>
+      <guid>/publication/2018-koth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>unCaptcha: A Low-Resource Defeat of reCaptcha&#39;s Audio Challenge</title>
-      <link>/publication/uncaptcha/</link>
+      <link>/publication/2017-uncaptcha/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/uncaptcha/</guid>
+      <guid>/publication/2017-uncaptcha/</guid>
       <description></description>
     </item>
     
