@@ -5,12 +5,20 @@
     <link>/tag/measurement/</link>
       <atom:link href="/tag/measurement/index.xml" rel="self" type="application/rss+xml" />
     <description>Measurement</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Measurement</title>
       <link>/tag/measurement/</link>
     </image>
+    
+    <item>
+      <title>Global, Passive Detection of Connection Tampering</title>
+      <link>/publication/2023-connection-tampering/</link>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-connection-tampering/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Measuring and Evading Turkmenistan’s Internet Censorship: A Case Study in Large-Scale Measurements of a Low-Penetration Country</title>

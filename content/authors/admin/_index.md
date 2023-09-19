@@ -76,9 +76,11 @@ discovers ways to evade nation-state Internet censorship, and advise the censors
 team in the [Breakerspace Lab](https://breakerspace.io). I am honored to be 
 a winner of Facebook and USNEIX's [Internet Defense
 Prize](https://www.usenix.org/blog/facebook-and-usenix-announce-winners-2021-internet-defense-prize),
-IRTF's international [Applied Network Research Prize](https://irtf.org/anrp/)
-(ANRP), and a recipient of USENIX Security's [Distinguished Paper
-Award](https://www.usenix.org/conference/usenixsecurity21/presentation/bock).
+IRTF's [Applied Network Research Prize](https://irtf.org/anrp/)
+(ANRP), a recipient of USENIX Security's [Distinguished Paper
+Award](https://www.usenix.org/conference/usenixsecurity21/presentation/bock), FOCI's
+[Best Practical Paper](https://foci.community/awards.html),
+and ACM SIGCOMM's [Doctoral Dissertation Award](https://www.sigcomm.org/awards/dissertation) Winner.
 
 Outside of my censorship work, I am currently working with Amazon Web Services
 and with the University of Maryland as an adjunct faculty member. I
