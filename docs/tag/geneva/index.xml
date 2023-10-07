@@ -5,12 +5,20 @@
     <link>/tag/geneva/</link>
       <atom:link href="/tag/geneva/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Geneva&#34;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Aug 2022 17:23:17 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>&#34;Geneva&#34;</title>
       <link>/tag/geneva/</link>
     </image>
+    
+    <item>
+      <title>Automating the Discovery of Censorship Evasion Strategies</title>
+      <link>/publication/dissertation/</link>
+      <pubDate>Wed, 17 Aug 2022 17:23:17 -0400</pubDate>
+      <guid>/publication/dissertation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GET /out: Automated Discovery of Application-Layer Censorship Evasion Strategies</title>
