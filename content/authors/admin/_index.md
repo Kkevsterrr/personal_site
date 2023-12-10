@@ -74,7 +74,7 @@ Levin](https://www.cs.umd.edu/~dml/).
 I created [Geneva](https://geneva.cs.umd.edu), a genetic algorithm that
 discovers ways to evade nation-state Internet censorship, and advise the censorship
 team in the [Breakerspace Lab](https://breakerspace.io). I am honored to be 
-a winner of Facebook and USNEIX's [Internet Defense
+a winner of Facebook and USENIX's [Internet Defense
 Prize](https://www.usenix.org/blog/facebook-and-usenix-announce-winners-2021-internet-defense-prize),
 IRTF's [Applied Network Research Prize](https://irtf.org/anrp/)
 (ANRP), a recipient of USENIX Security's [Distinguished Paper
