@@ -77,7 +77,7 @@ team in the [Breakerspace Lab](https://breakerspace.io). I am honored to be
 a winner of Facebook and USENIX's [Internet Defense
 Prize](https://www.usenix.org/blog/facebook-and-usenix-announce-winners-2021-internet-defense-prize),
 IRTF's [Applied Network Research Prize](https://irtf.org/anrp/)
-(ANRP), a recipient of USENIX Security's [Distinguished Paper
+(ANRP) in [2020](https://www.cs.umd.edu/~dml/papers/geneva_sigcomm20.pdf) and [2024](https://www.usenix.org/conference/usenixsecurity23/presentation/wu-mingshi), a recipient of USENIX Security's [Distinguished Paper
 Award](https://www.usenix.org/conference/usenixsecurity21/presentation/bock), FOCI's
 [Best Practical Paper](https://foci.community/awards.html),
 and ACM SIGCOMM's [Doctoral Dissertation Award](https://www.sigcomm.org/awards/dissertation) Winner.
