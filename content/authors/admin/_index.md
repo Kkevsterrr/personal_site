@@ -79,7 +79,7 @@ Prize](https://www.usenix.org/blog/facebook-and-usenix-announce-winners-2021-int
 IRTF's [Applied Network Research Prize](https://irtf.org/anrp/)
 (ANRP) in [2020](https://www.cs.umd.edu/~dml/papers/geneva_sigcomm20.pdf) and [2024](https://www.usenix.org/conference/usenixsecurity23/presentation/wu-mingshi), a recipient of USENIX Security's [Distinguished Paper
 Award](https://www.usenix.org/conference/usenixsecurity21/presentation/bock), FOCI's
-[Best Practical Paper](https://foci.community/awards.html),
+[Best Practical Paper](https://foci.community/awards.html), CSAW's [Applied Research Competition Winner](https://www.csaw.io/_files/ugd/acbc49_07fdbf51c3fc4b0eaa9fbc526b51b155.pdf),
 and ACM SIGCOMM's [Doctoral Dissertation Award](https://www.sigcomm.org/awards/dissertation) Winner.
 
 Outside of my censorship work, I am currently working with Amazon Web Services
